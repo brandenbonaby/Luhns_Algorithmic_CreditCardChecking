@@ -1,5 +1,5 @@
 # Luhns_Algorithmic_CreditCardChecking
-Simple Python3 program to run on the shell using Luhn's ALgorithm to confirm whether card number provided is either a VISA, American Express or a Mastercard Luhns Algorthm is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers you can read about it and the more complex ones at https://en.wikipedia.org/wiki/Luhn_algorithm
+Simple Python3 program to run on the shell using Luhn's ALgorithm to confirm whether card number provided is either a VISA, American Express or a Mastercard. Luhns Algorthm is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers. You can read about it and the more complex ones at https://en.wikipedia.org/wiki/Luhn_algorithm
 
 <h2> Usage:</h2>
 
